@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background-color: #1F2024;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+h2 {
+    color: #00ff9d;
+}
+
+.content-container {
+    padding-top: 80px;
+    padding: 40px 80px;
+}
+
+section[id], 
+div[id] {
+    scroll-margin-top: 100px; 
+}

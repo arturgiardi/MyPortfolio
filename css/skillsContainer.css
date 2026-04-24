@@ -1,0 +1,22 @@
+.skills {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 300px));
+    gap: 64px;
+    padding-right: 60px;
+    padding-left: 20px;
+    justify-content: center;
+}
+
+.skill_card {
+    width: 100%;
+    overflow: hidden;
+    background: rgba(243, 240, 240, 0.05);
+    padding: 20px;
+    border-radius: 20px;
+    border: 3px solid rgba(255, 255, 255, 0.1);
+}
+
+.skill_card:hover {
+    transition: 0.1s;
+    background: rgba(243, 240, 240, 0.1);
+}
