@@ -70,9 +70,6 @@
 
 @media (max-width: 768px) {
     .nav-links {
-        display: none; /* Esconde os links por enquanto */
-        
-        /* Se quiser que eles apareçam verticalmente no futuro:
         flex-direction: column;
         position: absolute;
         top: 70px;
@@ -81,6 +78,5 @@
         background-color: rgba(18, 18, 20, 0.95);
         padding: 20px;
         text-align: center;
-        */
     }
 }
