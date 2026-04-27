@@ -5,11 +5,10 @@ const myExperiences = [
         dateStart: "Sep 2021",
         dateEnd: "Dec 2025",
         tasks: [
-            "Developed Everyday Puzzles and Word Lanes. Two games with millions of downloads worldwide.",
-            "Designed and implemented scalable systems architecture to support feature growth and long-term maintainability.",
-            "Built reusable internal tools (e.g., navigation systems, login modules) adopted across multiple company projects, improving development efficiency.",
-            "Designed a flexible player profile system enabling dynamic feature configuration and personalization across the application.",
-            "Collaborated closely with product, design, and QA teams to deliver features in a live-ops environment.",
+            "Developed and maintained core gameplay systems for live mobile games, supporting continuous feature delivery and long-term scalability.",
+            "Designed scalable architecture that enabled rapid iteration and feature expansion in alive-ops environment.",
+            "Built reusable tools adopted across multiple projects, reducing development time and improving team efficiency.",
+            "Implemented A/B testing strategies to support data-driven feature validation and player engagement improvements."
         ],
     },
     {
