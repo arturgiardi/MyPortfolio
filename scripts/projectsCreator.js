@@ -43,6 +43,14 @@ const myProjects = [
     },
 
     {
+        title: "What if Final Fantasy 6 had a remake?",
+        video: "https://www.youtube.com/embed/HMNRhMxryFI?si=AhNh_O3qfWtXAb_4",
+        description: "A small tribute imagining what Final Fantasy 6 would be like if it won a remake similar to Live Alive.",
+        tags: ["Unity", "C#", "Technical Art", "3D Modeling"],
+        links: [],
+    },
+
+    {
         title: "Word Lanes",
         video: "https://www.youtube.com/embed/bRYnWx9GOh8?si=SsMvSMzsrSoZM_90",
         description: "Train your brain and enrich your vocabulary while you stroll through beautiful and soothing landscapes.",
@@ -59,6 +67,14 @@ const myProjects = [
     },
 
     {
+        title: "The Future of Work",
+        video: "https://www.youtube.com/embed/MNr9PnjrXos?si=b7TEUIrwKLgANcWQ",
+        description: "A project developed for the MIT Sloan Conference in São Paulo, focused on the future of work. It features a mixed reality simulation of an office environment.",
+        tags: ["Unity", "C#", "Magic Leap", "XR"],
+        links: [],
+    },
+
+    {
         title: "Yet Another Cute Game",
         video: "https://www.youtube.com/embed/5VLYp30Ua-A?si=H0nS7yUtcK_dzQiM",
         description: "Our bunny hero must rescue the damsel in distress from the bad guys and save the day. Right? But some little things are not what they appear to be.",
@@ -69,14 +85,6 @@ const myProjects = [
                 url: "https://philisoftstudio.itch.io/yet-another-cute-game"
             }
         ],
-    },
-
-    {
-        title: "What if Final Fantasy 6 had a remake?",
-        video: "https://www.youtube.com/embed/HMNRhMxryFI?si=AhNh_O3qfWtXAb_4",
-        description: "A small tribute imagining what Final Fantasy 6 would be like if it won a remake similar to Live Alive.",
-        tags: ["Unity", "C#", "Technical Art", "3D Modeling"],
-        links: [],
     },
 ];
 
