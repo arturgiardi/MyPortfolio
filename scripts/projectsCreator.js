@@ -5,6 +5,14 @@ const LinkType = Object.freeze({
 });
 
 const myProjects = [
+     {
+        title: "What if Final Fantasy 6 had a remake?",
+        video: "https://www.youtube.com/embed/HMNRhMxryFI?si=AhNh_O3qfWtXAb_4",
+        description: "A small tribute imagining what Final Fantasy 6 would be like if it won a remake similar to Live Alive.",
+        tags: ["Unity", "C#", "Technical Art", "3D Modeling"],
+        links: [],
+    },
+    
     {
         title: "Deeper & Deeper",
         video: "https://www.youtube.com/embed/BEAL6gVstL4",
@@ -71,13 +79,7 @@ const myProjects = [
         ],
     },
 
-    {
-        title: "What if Final Fantasy 6 had a remake?",
-        video: "https://www.youtube.com/embed/HMNRhMxryFI?si=AhNh_O3qfWtXAb_4",
-        description: "A small tribute imagining what Final Fantasy 6 would be like if it won a remake similar to Live Alive.",
-        tags: ["Unity", "C#", "Technical Art", "3D Modeling"],
-        links: [],
-    },
+   
 ];
 
 function renderProjects() {
