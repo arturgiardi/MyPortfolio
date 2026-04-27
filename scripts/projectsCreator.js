@@ -29,7 +29,7 @@ const myProjects = [
         },
         {
             type: LinkType.GOOGLEPLAY,
-            url: "https://apps.apple.com/ca/app/everyday-puzzles-mini-games/id1580601028"
+            url: "https://play.google.com/store/apps/details?id=com.fanatee.keep"
         },
         ],
     },
@@ -61,7 +61,7 @@ const myProjects = [
         },
         {
             type: LinkType.GOOGLEPLAY,
-            url: "https://apps.apple.com/us/app/word-lanes-relaxing-puzzles/id1486915152"
+            url: "https://play.google.com/store/apps/details?id=com.fanatee.noodles"
         },
         ],
     },
