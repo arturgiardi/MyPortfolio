@@ -15,11 +15,19 @@ h2 {
 }
 
 .content-container {
-    padding-top: 80px;
-    padding: 40px 80px;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 20px;
 }
 
-section[id], 
+section[id],
 div[id] {
-    scroll-margin-top: 100px; 
+    scroll-margin-top: 100px;
+}
+
+@media (max-width: 768px) {
+    .content-container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
 }

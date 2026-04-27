@@ -35,3 +35,14 @@
     line-height: 1.6;
     color: #e1e1e6;
 }
+
+@media (max-width: 768px) {
+    .experience-section {
+        padding-left: 0px;
+    }
+
+    .experience-tasks {
+        margin-left: 0px;
+    }
+
+}

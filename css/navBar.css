@@ -45,38 +45,21 @@
     color: #00ff9d;
 }
 
-/* Responsividade para telas menores */
 @media (max-width: 768px) {
     .nav-container {
-        padding: 0 20px; /* Reduzimos o padding exagerado */
+        padding: 0 20px;
     }
 
     .logo {
-        font-size: 1.2rem; /* Logo um pouco menor para caber em uma linha */
+        font-size: 1.1rem;
         letter-spacing: 1px;
     }
 
     .nav-links {
-        /* No mobile, links muito próximos são difíceis de clicar. 
-           Vamos escondê-los ou empilhá-los. 
-           Para este passo inicial, vamos deixá-los visíveis mas organizados: */
         gap: 15px; 
     }
 
     .nav-links a {
-        font-size: 0.85rem; /* Fonte menor para não quebrar a linha */
-    }
-}
-
-@media (max-width: 768px) {
-    .nav-links {
-        flex-direction: column;
-        position: absolute;
-        top: 70px;
-        left: 0;
-        width: 100%;
-        background-color: rgba(18, 18, 20, 0.95);
-        padding: 20px;
-        text-align: center;
+        font-size: 0.75rem;
     }
 }
