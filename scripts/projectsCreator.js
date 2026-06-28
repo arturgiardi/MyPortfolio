@@ -67,14 +67,6 @@ const myProjects = [
     },
 
     {
-        title: "The Future of Work",
-        video: "https://www.youtube.com/embed/MNr9PnjrXos?si=b7TEUIrwKLgANcWQ",
-        description: "A project developed for the MIT Sloan Conference in São Paulo, focused on the future of work. It features a mixed reality simulation of an office environment.",
-        tags: ["Unity", "C#", "Magic Leap", "XR"],
-        links: [],
-    },
-
-    {
         title: "Yet Another Cute Game",
         video: "https://www.youtube.com/embed/5VLYp30Ua-A?si=H0nS7yUtcK_dzQiM",
         description: "Our bunny hero must rescue the damsel in distress from the bad guys and save the day. Right? But some little things are not what they appear to be.",
