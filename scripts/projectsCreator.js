@@ -42,7 +42,8 @@ const myProjects = [
         links: [{
             type: LinkType.ITCHIO,
             url: "https://eltutz.itch.io/yokai-killer-shuten-doji"
-        },
+            },
+        ],
     },
 
     {
