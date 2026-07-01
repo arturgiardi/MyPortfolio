@@ -36,10 +36,13 @@ const myProjects = [
 
     {
         title: "Yokai Killer",
-        video: "https://www.youtube.com/embed/2CO0BpM1BS0",
+        video: "https://www.youtube.com/embed/xKatDZHJ-yc?si=94QtC9EVMGW0tl6T",
         description: "A Metroidvania inspired in 90s classics.",
         tags: ["Unity", "C#", "Game Design", "Pixel Art", "3D Modeling"],
-        links: [],
+        links: [{
+            type: LinkType.ITCHIO,
+            url: "https://eltutz.itch.io/yokai-killer-shuten-doji"
+        },
     },
 
     {
